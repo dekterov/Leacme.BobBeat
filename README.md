@@ -4,6 +4,7 @@
 
 This application features the ability to play synthesized sounds on a touchscreen drum machine.
 
+![index](https://user-images.githubusercontent.com/6654513/71701778-e2143a00-2d88-11ea-8371-9c3a1ad7f44b.png)
 ![][image_screenshot]
 
 ## Application Compiling
